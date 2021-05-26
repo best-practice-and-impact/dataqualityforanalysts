@@ -1,2 +1,1 @@
-#Data Quality for Analysts
-##Introduction
+#Introduction
