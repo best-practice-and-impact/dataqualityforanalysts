@@ -50,7 +50,7 @@ For the first stage of your assessment, you will need the data for your analysis
 ### Data Quality
 - [Government Data Quality Framework](https://www.gov.uk/government/publications/the-government-data-quality-framework/the-government-data-quality-framework)
 - [DAMA White paper](https://www.dama-uk.org/resources/Documents/DAMA%20UK%20DQ%20Dimensions%20White%20Paper2020.pdf)
-
+ 
 ### Data Cleaning
 - [Introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 
