@@ -1,5 +1,5 @@
 # Data Quality for Analysts
-## Introduction
+## Introduction  
 Good quality data is data that is fit for purpose. 
 This means that the data you are working with suits your needs. When analysing a dataset, you will be making decisions about what values you want to include or any cleaning you need to do. These decisions may be based on your knowledge of the analysis you would like to conduct, assumptions about the data or conversations you have had with the collector/supplier about it, and your experience with the type of data you are working with. During this process you are assessing how fit for your purpose – your analysis - the data is and what you need to do to mitigate any problems you have found. All these decisions are critical to the success of your analysis, and in ensuring as high a quality output as you can obtain based on the data you received. There is no problem   with having an analytical output where the quality has been prohibited by the data you have been using; no data is perfect. 
 What is important is that you the analyst:
