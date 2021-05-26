@@ -1,5 +1,5 @@
 # Data Quality for Analysts
-## Introduction
+## Introduction  
 Good quality data is data that is fit for purpose. 
 This means that the data you are working with suits your needs. When analysing a dataset, you will be making decisions about what values you want to include or any cleaning you need to do. These decisions may be based on your knowledge of the analysis you would like to conduct, assumptions about the data or conversations you have had with the collector/supplier about it, and your experience with the type of data you are working with. During this process you are assessing how fit for your purpose – your analysis - the data is and what you need to do to mitigate any problems you have found. All these decisions are critical to the success of your analysis, and in ensuring as high a quality output as you can obtain based on the data you received. There is no problem   with having an analytical output where the quality has been prohibited by the data you have been using; no data is perfect. 
 What is important is that you the analyst:
@@ -41,10 +41,12 @@ Before proceeding, an important clarification. Your organisation might have data
 
 For the purposes of this guidance, the starting point is a technically correct data file that can be imported into R or Python. We consider a data file as technically correct if the dataset that has suitable variables (columns) names and is stored as the appropriate data object (data.frame in R and xx in Python). (reference to importing data here in the right format and changing variable names).
 
-### Step 1: descriptive and summary statistics 
+### Step 1: Descriptive and Summary Statistics 
 For the first stage of your assessment, you will need the data for your analysis at hand. Q: what do we want to suggest for when merging of different datasets is required? @LuciaBarbone thinking is that we should suggest to do a merging and keeping all, independently from the number of matches. You should then conduct a number of checks, descriptive statistics, and summaries that will help you understand how your data is scoring against each dimension. The following table suggests what checks are appropriate for each dimensions, as well as useful R commands. However, you are always welcome to add more or use different ones if more appropriate for your data!
 
-### How to mitigate against less than ideal data quality
+### Step 2: Data Quality Metrics
+
+## How to mitigate against less than ideal data quality
 
 ## Useful links and resources
 ### Data Quality
